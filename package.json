@@ -1,0 +1,28 @@
+{
+  "name": "exercicios-backend-api-rest",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "alunos": "nodemon ./01/src/index.js",
+    "convidados": "nodemon ./02/src/index.js",
+    "livros": "nodemon ./03/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lt-lopes1994/exercicios-backend-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lt-lopes1994/exercicios-backend-api-rest/issues"
+  },
+  "homepage": "https://github.com/Lt-lopes1994/exercicios-backend-api-rest#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
